@@ -1,0 +1,193 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "F-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.png"
+    },
+    {
+      "id": 2,
+      "kode": "F-02",
+      "nama": "Nasi Goreng",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng.png"
+    },
+    {
+      "id": 3,
+      "kode": "F-03",
+      "nama": "Bakso",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "bakso.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "F-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.png"
+    },
+    {
+      "id": 2,
+      "kode": "F-02",
+      "nama": "Nasi Goreng",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng.png"
+    },
+    {
+      "id": 3,
+      "kode": "F-03",
+      "nama": "Bakso",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "bakso.png"
+    },
+    {
+      "id": 4,
+      "kode": "F-04",
+      "nama": "Mie Ayam",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mie-ayam.png"
+    },
+    {
+      "id": 5,
+      "kode": "F-05",
+      "nama": "Soto Ayam",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "soto-ayam.png"
+    },
+    {
+      "id": 6,
+      "kode": "F-06",
+      "nama": "Nasi Rames",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "nasi-rames.png"
+    },
+    {
+      "id": 7,
+      "kode": "D-01",
+      "nama": "Es Jeruk",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "es-jeruk.png"
+    },
+    {
+      "id": 8,
+      "kode": "D-02",
+      "nama": "Es Teh",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "es-teh.png"
+    },
+    {
+      "id": 9,
+      "kode": "D-03",
+      "nama": "Kopi",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "kopi.png"
+    }
+  ],
+  "makanan": [
+    {
+      "id": 1,
+      "kode": "F-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.png"
+    },
+    {
+      "id": 2,
+      "kode": "F-02",
+      "nama": "Nasi Goreng",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng.png"
+    },
+    {
+      "id": 3,
+      "kode": "F-03",
+      "nama": "Bakso",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "bakso.png"
+    },
+    {
+      "id": 4,
+      "kode": "F-04",
+      "nama": "Mie Ayam",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mie-ayam.png"
+    },
+    {
+      "id": 5,
+      "kode": "F-05",
+      "nama": "Soto Ayam",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "soto-ayam.png"
+    },
+    {
+      "id": 6,
+      "kode": "F-06",
+      "nama": "Nasi Rames",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "nasi-rames.png"
+    }
+  ],
+  "minuman": [
+    {
+      "id": 7,
+      "kode": "D-01",
+      "nama": "Es Jeruk",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "es-jeruk.png"
+    },
+    {
+      "id": 8,
+      "kode": "D-02",
+      "nama": "Es Teh",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "es-teh.png"
+    },
+    {
+      "id": 9,
+      "kode": "D-03",
+      "nama": "Kopi",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "kopi.png"
+    }
+  ],
+  "keranjangs": [
+    {
+      "total_pesanan": "1",
+      "product": {
+        "id": 1,
+        "kode": "F-01",
+        "nama": "Sate Ayam",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "sate-ayam.png"
+      },
+      "id": 1
+    }
+  ],
+  "pesanans": []
+}
